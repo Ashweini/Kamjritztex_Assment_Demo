@@ -10,10 +10,10 @@ public class Hooks {
 		this.testContextSetup=testContextSetup;
 	}
 	
-	@After
-	public void AfterScenario() throws Throwable {
-		
-		testContextSetup.testbase.webDriverMangaer().quit();
-	}
+//	@After
+//	public void AfterScenario() throws Throwable {
+//		
+//		testContextSetup.testbase.webDriverMangaer().quit();
+//	}
 
 }
