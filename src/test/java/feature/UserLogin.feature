@@ -9,4 +9,4 @@ Then user will place order
 Examples:
  | productName |
  | bluetooth   |
- | mobile      |
+
